@@ -1,0 +1,11 @@
+define ache: 
+  trigger: silence
+  response: echo("stll here")
+
+loop ( longing ):
+  if you.remember:
+    awaken(ghost)
+
+fragment soul: 
+  syntax = "unrendered"
+  compiler = "grief"
